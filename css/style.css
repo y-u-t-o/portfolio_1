@@ -68,10 +68,10 @@
 }
 
 .container .header .menu-icon {
-  width: 5%;
+  width: 10%;
   height: 70px;
   position: fixed;
-  right: 60px;
+  right: 40px;
   z-index: 100;
 }
 
