@@ -7,7 +7,6 @@ const list = document.querySelector('.link');
 
 btn.addEventListener('click', function () {
   nav.classList.toggle('open-menu');
-  nav.removeClass('open-menu');
   border1.classList.toggle('open1');
   border2.classList.toggle('open2');
   border3.classList.toggle('open3');
